@@ -1,0 +1,121 @@
+
+body,head{
+  background-color: #000000;
+}
+
+*{
+  margin: 0;
+  color: #fff;
+  padding: 0;
+}
+.header{
+  
+}
+.imgphoto{
+   height: 50px;
+   width: 50px;
+   margin-right: 10px;
+   border-radius: 50%;
+   margin-left: 13px;
+   margin-top: 2px;
+   position: relative;
+   top: 15px;
+   display: inline-block;
+}
+.header .text{
+   display: inline-block;
+   position: relative;
+}
+.header .camera{
+  display: inline-block;
+  margin-left: 80px;
+  color: white;
+  background-color: #2f3233;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+.header .pen{
+  display: inline-block;
+  margin-left: 15px;
+  color: white;
+  background-color: #2f3233;
+  width: 25px;
+  height: 25px;
+  margin-top: 3px;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.header button{
+  outline: none;
+  text-decoration: none;
+  background: transparent;
+  border: none;
+}
+.search{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.search input{
+  width: 290px;
+  height: 40px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  text-align: center;
+  color: #fff;
+  background-color: #2f3233;
+}
+.search i{
+  position: absolute;
+  top: 107px;
+  left: 25px;
+}
+.stories{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.stories i{
+  text-align: center;
+  padding: 20px;
+  background: #2f3233;
+  border-radius: 50%;
+  margin-top: 0;
+  position: absolute;
+  top: 163px;
+}
+.stories img{
+  width: 55px;
+  height: 55px;
+}
+.aaa{
+  margin-left: 75px;
+}
+.people{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.people .informations{
+  display: inline-block;
+  margin: 1px;
+  margin-top: 0;
+  
+}
+.people img{
+  margin-left: 10px;
+  width: 60px;
+  height: 60px;
+}
+.people .informations p{
+  font-size: 15px;
+}
+
+
+
